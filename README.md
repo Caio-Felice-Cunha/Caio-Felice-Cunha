@@ -11,10 +11,12 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 # Projects:
-<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature.
+## (Mostly) RStudio:
+<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio
 
+<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226118013-93dc490e-ff12-4085-a454-7a15b8ab774b.png> [Netflix and GDP](https://github.com/Caio-Felice-Cunha/Netflix-GDP): Analyzing how a GDP of a Country influences the Nteflix Subscriptions, in Rstudio, MySQL and Power BI
 
-
+<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226118013-93dc490e-ff12-4085-a454-7a15b8ab774b.png> [MBA](https://github.com/Caio-Felice-Cunha/MarketBasketAnalysis): Retail with Market Basket Analysis in RStudio and MySQL.
 
 
 
