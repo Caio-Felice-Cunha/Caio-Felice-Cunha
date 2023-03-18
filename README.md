@@ -14,16 +14,8 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 ## (Mostly) Python:
 &spades; Soon
 
-# Projects:
 ## (Mostly) SQL:
-<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio. <br>
-<br>
-<br>
-<br>
-<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226118013-93dc490e-ff12-4085-a454-7a15b8ab774b.png> [Netflix and GDP](https://github.com/Caio-Felice-Cunha/Netflix-GDP): Analyzing how a GDP of a Country influences the Nteflix Subscriptions, in Rstudio, MySQL and Power BI. <br>
-<br>
-<br>
-<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226118542-f536315b-e479-42be-a613-a846c044e1bb.jpeg> [MBA](https://github.com/Caio-Felice-Cunha/MarketBasketAnalysis): Retail with Market Basket Analysis in RStudio and MySQL.
+&spacdes; Soon
 
 ## (Mostly) RStudio:
 <img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio. <br>
