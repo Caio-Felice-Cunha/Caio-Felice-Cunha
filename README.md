@@ -14,7 +14,7 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 ![Climate](https://user-images.githubusercontent.com/111542025/225629592-184b2cba-a3fd-45ed-bab7-e0c3b5a12c8e.png)  [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature.
 
 
-<img align="left" width="150" height="150" src="[https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true](https://user-images.githubusercontent.com/111542025/225629592-184b2cba-a3fd-45ed-bab7-e0c3b5a12c8e.png)"></a>
+<img align="left" width="150" height="150" src="[https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true]"></a>  [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature.
 
 
 
