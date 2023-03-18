@@ -12,3 +12,6 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# ![data-science-icon](https://user-images.githubusercontent.com/111542025/226113854-6fbaaa66-378b-42e4-800c-682abde7d791.svg)
+
