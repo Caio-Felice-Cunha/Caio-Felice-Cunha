@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 Caio di Felice Cunha here!
 
 # 💫 About Me:
 I'm a tech enthusiast, constantly learning something new, and right now my focus is on data analysis with Power BI, SQL, Python and R.<br><br>I recently graduated from a Brazilian MBA focused on Management: Finance, Controlling and Auditing at Fundação Getúlio Vargas (FGV).<br><br>Since april 2021 I have developed several tech and business skills, and my current challenge is the Data Science Academy Data Scientist Training, that includes 06 main courses and 01 extra course (454 hours total): <br><br>01 - Big Data Analytics with R and Microsoft Azure Machine Learning; 02 - Big Data Real-Time Analytics with Python and Spark; 03 - Data Engineering with Hadoop and Spark; 04 - Machine Learning; 05 - Business Analytics; 06 - Data Visualization and Dashboards Design; Bonus: Preparing for a Data Scientist Career.<br><br>I'm a Brazilian willing to move to Texas.
