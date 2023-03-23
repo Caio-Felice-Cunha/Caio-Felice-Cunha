@@ -13,10 +13,7 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 # :scientist: Projects:
 ## (Mostly) Python:
 ###### Lending Club Analysis
-<img src=https://user-images.githubusercontent.com/111542025/226976602-38713a08-415e-4527-b4c3-a02a7d784c47.png width="150" height="80" style="float:left"> [LendingClubAnalysis](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Clean and pre-process the data with Python Numpy and Power BI<br>
-<br>
-<br>
-<br>
+<img src=https://user-images.githubusercontent.com/111542025/226976602-38713a08-415e-4527-b4c3-a02a7d784c47.png width="150" height="80" style="float:left"> [LendingClubAnalysis](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Clean and pre-process the data with Python Numpy and Power BI
 
 ## (Mostly) SQL:
 &spades; Soon
