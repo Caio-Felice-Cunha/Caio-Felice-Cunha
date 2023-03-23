@@ -12,7 +12,7 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 # :scientist: Projects:
 ## (Mostly) Python:
-<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226976602-38713a08-415e-4527-b4c3-a02a7d784c47.png> [LendingClubAnalysis](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Clean and pre-process the data with Python Numpy <br>
+<img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226976602-38713a08-415e-4527-b4c3-a02a7d784c47.png> [LendingClubAnalysis](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Clean and pre-process the data with Python Numpy and Power BI<br>
 <br>
 <br>
 <br>
@@ -26,6 +26,7 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 <br>
 <br>
 <img align="left" width="150" height="80" src=https://user-images.githubusercontent.com/111542025/226118013-93dc490e-ff12-4085-a454-7a15b8ab774b.png> [Netflix and GDP](https://github.com/Caio-Felice-Cunha/Netflix-GDP): Analyzing how a GDP of a Country influences the Nteflix Subscriptions in Rstudio. <br>
+<br>
 <br>
 <br>
 <br>
