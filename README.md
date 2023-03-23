@@ -22,13 +22,13 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 ## (Mostly) RStudio:
 
-<img src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png width="80" height="80" style="float:left"> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio, MySQL and Power BI 
+<img src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png width="150" height="80" style="float:left"> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio, MySQL and Power BI 
   
  
-<img src=https://user-images.githubusercontent.com/111542025/226118013-93dc490e-ff12-4085-a454-7a15b8ab774b.png width="80" height="80" style="float:left"> [Netflix and GDP](https://github.com/Caio-Felice-Cunha/Netflix-GDP): Analyzing how a GDP of a Country influences the Nteflix Subscriptions in Rstudio. 
+<img src=https://user-images.githubusercontent.com/111542025/226118013-93dc490e-ff12-4085-a454-7a15b8ab774b.png width="150" height="80" style="float:left"> [Netflix and GDP](https://github.com/Caio-Felice-Cunha/Netflix-GDP): Analyzing how a GDP of a Country influences the Nteflix Subscriptions in Rstudio. 
 
 
-<img src=https://user-images.githubusercontent.com/111542025/226118542-f536315b-e479-42be-a613-a846c044e1bb.jpeg width="80" height="80" style="float:left"> [MBA](https://github.com/Caio-Felice-Cunha/MarketBasketAnalysis): Retail with Market Basket Analysis in RStudio and MySQL. 
+<img src=https://user-images.githubusercontent.com/111542025/226118542-f536315b-e479-42be-a613-a846c044e1bb.jpeg width="150" height="80" style="float:left"> [MBA](https://github.com/Caio-Felice-Cunha/MarketBasketAnalysis): Retail with Market Basket Analysis in RStudio and MySQL. 
 
 
 ## (Mostly) Power BI:
