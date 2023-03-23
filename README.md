@@ -22,7 +22,7 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 ## (Mostly) RStudio:
 
-<p><img src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png width="150" height="80" style="vertical-align:middle;margin:0px 50px"> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio, MySQL and Power BI </p> 
+<img src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png width="150" height="80" style="vertical-align:middle;margin:0px 50px"> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio, MySQL and Power BI
 
 <img src=https://user-images.githubusercontent.com/111542025/226118013-93dc490e-ff12-4085-a454-7a15b8ab774b.png width="150" height="80" style="float:left"> [Netflix and GDP](https://github.com/Caio-Felice-Cunha/Netflix-GDP): Analyzing how a GDP of a Country influences the Nteflix Subscriptions in Rstudio. 
 
