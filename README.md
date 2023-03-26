@@ -14,7 +14,7 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 ## (Mostly) Python:
 
 ###### E-Commerce Analytics
-<img src=https://user-images.githubusercontent.com/111542025/227748719-b52177e7-51c6-4afa-b9e8-56b65812e2d6.png width="150" height="80" style="float:left"> [E-CommerceAnalytics](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Analyzing an international e-commerce company (E-commerce) with Python
+<img src=https://user-images.githubusercontent.com/111542025/227748719-b52177e7-51c6-4afa-b9e8-56b65812e2d6.png width="150" height="80" style="float:left"> [E-CommerceAnalytics](https://github.com/Caio-Felice-Cunha/E-CommerceAnalytics): Analyzing an international e-commerce company (E-commerce) with Python
 
 ###### Aducation Analysis
 <img src=https://user-images.githubusercontent.com/111542025/227364082-d1c31dfe-d467-466f-81a5-34aa085eb175.jpg width="150" height="80" style="float:left"> [AducationAnalysis](https://github.com/Caio-Felice-Cunha/AducationAnalysis): Using Python's Pandas and Power BI to analyze school data
