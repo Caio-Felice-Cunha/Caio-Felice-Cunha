@@ -23,7 +23,8 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 <img src=https://user-images.githubusercontent.com/111542025/226976602-38713a08-415e-4527-b4c3-a02a7d784c47.png width="150" height="80" style="float:left"> [LendingClubAnalysis](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Clean and pre-process the data with Python Numpy and Power BI
 
 ## (Mostly) SQL:
-&spades; Soon
+###### Rental Performance Analysis
+<img src=https://user-images.githubusercontent.com/111542025/229197103-3829a42c-a8fc-450e-83f8-b5c5dcc4164e.jpg width="150" height="80" style="float:left"> [RentalPerformanceAnalysis](https://github.com/Caio-Felice-Cunha/RentalPerformanceAnalysis): MySQL sakila database analized with SQL
 
 ## (Mostly) RStudio:
 ###### Climate Analysis
