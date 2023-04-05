@@ -26,6 +26,9 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 ###### Rental Performance Analysis
 <img src=https://user-images.githubusercontent.com/111542025/229197103-3829a42c-a8fc-450e-83f8-b5c5dcc4164e.jpg width="150" height="80" style="float:left"> [RentalPerformanceAnalysis](https://github.com/Caio-Felice-Cunha/RentalPerformanceAnalysis): MySQL sakila database analized with SQL
 
+###### Restaurant Analysis
+<img src=https://user-images.githubusercontent.com/111542025/230174246-f261edf2-293a-4c96-9158-ae1b5d9a1193.png width="150" height="80" style="float:left"> [RestaurantAnalysis](https://github.com/Caio-Felice-Cunha/RestaurantAnalysis): Analyzing Danny's Japanese Restaurant with MySQL
+
 ## (Mostly) RStudio:
 ###### Climate Analysis
 <img src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png width="150" height="80" style="vertical-align:middle;margin:0px 50px"> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio, MySQL and Power BI
