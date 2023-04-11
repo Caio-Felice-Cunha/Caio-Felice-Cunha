@@ -13,6 +13,9 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 # :scientist: Projects:
 ## (Mostly) Python:
 
+###### Telecom Analysis
+<img src=https://user-images.githubusercontent.com/111542025/231281124-b31b90f2-cdaa-44cf-bc7d-08c309228490.jpg width="150" height="80" style="float:left"> [TelecomAnalysis](https://github.com/Caio-Felice-Cunha/TelecomAnalysis): Hypothesis Tests in Python Language for Business Problems in Telecom
+
 ###### E-Commerce Analytics
 <img src=https://user-images.githubusercontent.com/111542025/227748719-b52177e7-51c6-4afa-b9e8-56b65812e2d6.png width="150" height="80" style="float:left"> [E-CommerceAnalytics](https://github.com/Caio-Felice-Cunha/E-CommerceAnalytics): Analyzing an international e-commerce company (E-commerce) with Python and Power BI
 
