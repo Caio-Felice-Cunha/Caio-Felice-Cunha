@@ -13,6 +13,9 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 # :scientist: Projects:
 ## (Mostly) Python:
 
+###### Health Analytics
+<img src=https://user-images.githubusercontent.com/111542025/232332768-394a5de2-3303-4a7c-92a8-193bdf8247d6.png width="150" height="80" style="float:left"> [HealthAnalytics](https://github.com/Caio-Felice-Cunha/HealthAnalytics): Liver Disease Prediction with Machine Learning in Python
+
 ###### Telecom Analysis
 <img src=https://user-images.githubusercontent.com/111542025/231281124-b31b90f2-cdaa-44cf-bc7d-08c309228490.jpg width="150" height="80" style="float:left"> [TelecomAnalysis](https://github.com/Caio-Felice-Cunha/TelecomAnalysis): Hypothesis Tests in Python Language for Business Problems in Telecom
 
