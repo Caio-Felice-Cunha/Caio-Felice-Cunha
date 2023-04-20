@@ -29,8 +29,11 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 <img src=https://user-images.githubusercontent.com/111542025/226976602-38713a08-415e-4527-b4c3-a02a7d784c47.png width="150" height="80" style="float:left"> [LendingClubAnalysis](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Clean and pre-process the data with Python Numpy and Power BI
 
 ## (Mostly) SQL:
+###### SQl Problems
+<img src=https://user-images.githubusercontent.com/111542025/233393866-a541aea9-f529-4d72-9998-679a4247f2d4.png width="150" height="80" style="float:left"> [SQl Problems](https://github.com/Caio-Felice-Cunha/SQl_Problems):SQL solutions for all sort of problems
+
 ###### Pizza Runner
-<img src=https://user-images.githubusercontent.com/111542025/230741077-e444f1e8-b758-4eea-a024-11ca0dd708de.png width="150" height="80" style="float:left"> [PizzaRunner](https://github.com/Caio-Felice-Cunha/PizzaRunner):nalyzing Danny's Pizza Runnes with MySQL
+<img src=https://user-images.githubusercontent.com/111542025/230741077-e444f1e8-b758-4eea-a024-11ca0dd708de.png width="150" height="80" style="float:left"> [PizzaRunner](https://github.com/Caio-Felice-Cunha/PizzaRunner):Analyzing Danny's Pizza Runnes with MySQL
 
 ###### Restaurant Analysis
 <img src=https://user-images.githubusercontent.com/111542025/230174246-f261edf2-293a-4c96-9158-ae1b5d9a1193.png width="150" height="80" style="float:left"> [RestaurantAnalysis](https://github.com/Caio-Felice-Cunha/RestaurantAnalysis): Analyzing Danny's Japanese Restaurant with MySQL
