@@ -12,37 +12,41 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 # :scientist: Projects:
 ## (Mostly) Python:
+![Which-Type-of-Investment-Has-the-Highest-Risk]()
+
+###### E-Commerce Problem Solving
+<img src=https://user-images.githubusercontent.com/111542025/233861359-986757f1-96de-49e9-9c1c-36c21ccb6533.jpg width="150" height="80" style="float:left"> [E-Commerce Problem Solving](https://github.com/Caio-Felice-Cunha/HealthAnalytics): Where should this company invest: web or app?
 
 ###### Health Analytics
-<img src=https://user-images.githubusercontent.com/111542025/232332768-394a5de2-3303-4a7c-92a8-193bdf8247d6.png width="150" height="80" style="float:left"> [HealthAnalytics](https://github.com/Caio-Felice-Cunha/HealthAnalytics): Liver Disease Prediction with Machine Learning in Python
+<img src=https://user-images.githubusercontent.com/111542025/232332768-394a5de2-3303-4a7c-92a8-193bdf8247d6.png width="150" height="80" style="float:left"> [Health Analytics](https://github.com/Caio-Felice-Cunha/HealthAnalytics): Liver Disease Prediction with Machine Learning in Python
 
 ###### Telecom Analysis
-<img src=https://user-images.githubusercontent.com/111542025/231281124-b31b90f2-cdaa-44cf-bc7d-08c309228490.jpg width="150" height="80" style="float:left"> [TelecomAnalysis](https://github.com/Caio-Felice-Cunha/TelecomAnalysis): Hypothesis Tests in Python Language for Business Problems in Telecom
+<img src=https://user-images.githubusercontent.com/111542025/231281124-b31b90f2-cdaa-44cf-bc7d-08c309228490.jpg width="150" height="80" style="float:left"> [Telecom Analysis](https://github.com/Caio-Felice-Cunha/TelecomAnalysis): Hypothesis Tests in Python Language for Business Problems in Telecom
 
 ###### E-Commerce Analytics
-<img src=https://user-images.githubusercontent.com/111542025/227748719-b52177e7-51c6-4afa-b9e8-56b65812e2d6.png width="150" height="80" style="float:left"> [E-CommerceAnalytics](https://github.com/Caio-Felice-Cunha/E-CommerceAnalytics): Analyzing an international e-commerce company (E-commerce) with Python and Power BI
+<img src=https://user-images.githubusercontent.com/111542025/227748719-b52177e7-51c6-4afa-b9e8-56b65812e2d6.png width="150" height="80" style="float:left"> [E-Commerce Analytics](https://github.com/Caio-Felice-Cunha/E-CommerceAnalytics): Analyzing an international e-commerce company (E-commerce) with Python and Power BI
 
 ###### Aducation Analysis
-<img src=https://user-images.githubusercontent.com/111542025/227364082-d1c31dfe-d467-466f-81a5-34aa085eb175.jpg width="150" height="80" style="float:left"> [AducationAnalysis](https://github.com/Caio-Felice-Cunha/AducationAnalysis): Using Python's Pandas and Power BI to analyze school data
+<img src=https://user-images.githubusercontent.com/111542025/227364082-d1c31dfe-d467-466f-81a5-34aa085eb175.jpg width="150" height="80" style="float:left"> [Aducation Analysis](https://github.com/Caio-Felice-Cunha/AducationAnalysis): Using Python's Pandas and Power BI to analyze school data
 
 ###### Lending Club Analysis
-<img src=https://user-images.githubusercontent.com/111542025/226976602-38713a08-415e-4527-b4c3-a02a7d784c47.png width="150" height="80" style="float:left"> [LendingClubAnalysis](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Clean and pre-process the data with Python Numpy and Power BI
+<img src=https://user-images.githubusercontent.com/111542025/226976602-38713a08-415e-4527-b4c3-a02a7d784c47.png width="150" height="80" style="float:left"> [Lending Club Analysis](https://github.com/Caio-Felice-Cunha/LendingClubAnalysis): Clean and pre-process the data with Python Numpy and Power BI
 
 ## (Mostly) SQL:
 ###### SQl Problems
-<img src=https://user-images.githubusercontent.com/111542025/233393866-a541aea9-f529-4d72-9998-679a4247f2d4.png width="150" height="80" style="float:left"> [SQl Problems](https://github.com/Caio-Felice-Cunha/SQl_Problems): SQL solutions for all sort of problems
+<img src=https://user-images.githubusercontent.com/111542025/233393866-a541aea9-f529-4d72-9998-679a4247f2d4.png width="150" height="80" style="float:left"> [SQL Problems](https://github.com/Caio-Felice-Cunha/SQl_Problems): SQL solutions for all sort of problems
 
 ###### Food-fi
 <img src=https://user-images.githubusercontent.com/111542025/233793451-6a3a4d15-78b2-45ce-8403-d2d3d52f9c9d.png width="150" height="80" style="float:left"> [Food-fi](https://github.com/Caio-Felice-Cunha/Food-fi/tree/main): Analyzing Food Streaming Service with MySQL
 
 ###### Pizza Runner
-<img src=https://user-images.githubusercontent.com/111542025/230741077-e444f1e8-b758-4eea-a024-11ca0dd708de.png width="150" height="80" style="float:left"> [PizzaRunner](https://github.com/Caio-Felice-Cunha/PizzaRunner): Analyzing Danny's Pizza Runnes with MySQL
+<img src=https://user-images.githubusercontent.com/111542025/230741077-e444f1e8-b758-4eea-a024-11ca0dd708de.png width="150" height="80" style="float:left"> [Pizza Runner](https://github.com/Caio-Felice-Cunha/PizzaRunner): Analyzing Danny's Pizza Runnes with MySQL
 
 ###### Restaurant Analysis
-<img src=https://user-images.githubusercontent.com/111542025/230174246-f261edf2-293a-4c96-9158-ae1b5d9a1193.png width="150" height="80" style="float:left"> [RestaurantAnalysis](https://github.com/Caio-Felice-Cunha/RestaurantAnalysis): Analyzing Danny's Japanese Restaurant with MySQL
+<img src=https://user-images.githubusercontent.com/111542025/230174246-f261edf2-293a-4c96-9158-ae1b5d9a1193.png width="150" height="80" style="float:left"> [Restaurant Analysis](https://github.com/Caio-Felice-Cunha/RestaurantAnalysis): Analyzing Danny's Japanese Restaurant with MySQL
 
 ###### Rental Performance Analysis
-<img src=https://user-images.githubusercontent.com/111542025/229197103-3829a42c-a8fc-450e-83f8-b5c5dcc4164e.jpg width="150" height="80" style="float:left"> [RentalPerformanceAnalysis](https://github.com/Caio-Felice-Cunha/RentalPerformanceAnalysis): MySQL sakila database analized with SQL
+<img src=https://user-images.githubusercontent.com/111542025/229197103-3829a42c-a8fc-450e-83f8-b5c5dcc4164e.jpg width="150" height="80" style="float:left"> [Rental Performance Analysis](https://github.com/Caio-Felice-Cunha/RentalPerformanceAnalysis): MySQL sakila database analized with SQL
 
 ## (Mostly) RStudio:
 ###### Market Basket Analysis
@@ -52,7 +56,7 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 <img src=https://user-images.githubusercontent.com/111542025/226118013-93dc490e-ff12-4085-a454-7a15b8ab774b.png width="150" height="80" style="float:left"> [Netflix and GDP](https://github.com/Caio-Felice-Cunha/Netflix-GDP): Analyzing how a GDP of a Country influences the Nteflix Subscriptions in Rstudio.
 
 ###### Climate Analysis
-<img src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png width="150" height="80" style="vertical-align:middle;margin:0px 50px"> [ClimateAnalysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio, MySQL and Power BI
+<img src=https://user-images.githubusercontent.com/111542025/226117187-1690642a-bceb-42d4-8a12-3b0bda074cbd.png width="150" height="80" style="vertical-align:middle;margin:0px 50px"> [Climate Analysis](https://github.com/Caio-Felice-Cunha/ClimateAnalysis): Analyzing the Berkeley Earth database about US Temperature, in RStudio, MySQL and Power BI
 
 ## (Mostly) Power BI:
 &spades; Soon
