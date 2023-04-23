@@ -12,7 +12,6 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 # :scientist: Projects:
 ## (Mostly) Python:
-![Which-Type-of-Investment-Has-the-Highest-Risk]()
 
 ###### E-Commerce Problem Solving
 <img src=https://user-images.githubusercontent.com/111542025/233861359-986757f1-96de-49e9-9c1c-36c21ccb6533.jpg width="150" height="80" style="float:left"> [E-Commerce Problem Solving](https://github.com/Caio-Felice-Cunha/HealthAnalytics): Where should this company invest: web or app?
