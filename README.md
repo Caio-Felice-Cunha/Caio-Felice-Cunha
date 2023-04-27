@@ -53,6 +53,10 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 <img src=https://user-images.githubusercontent.com/111542025/229197103-3829a42c-a8fc-450e-83f8-b5c5dcc4164e.jpg width="150" height="80" style="float:left"> [Rental Performance Analysis](https://github.com/Caio-Felice-Cunha/RentalPerformanceAnalysis): MySQL sakila database analized with SQL
 
 ## (Mostly) RStudio:
+
+###### Customer Segmentation Based RFM Analysis
+<img src=https://user-images.githubusercontent.com/111542025/234999814-62da9573-f325-4a61-b80f-9bdd7996614f.png width="150" height="80" style="float:left"> [Customer Segmentation Based RFM Analysis](https://github.com/Caio-Felice-Cunha/Customer_Segmentation_Based_RFM_Analysis/tree/main): Machine Learning in R using K means for RFM Analysis. 
+
 ###### Market Basket Analysis
 <img src=https://user-images.githubusercontent.com/111542025/226118542-f536315b-e479-42be-a613-a846c044e1bb.jpeg width="150" height="80" style="float:left"> [MBA](https://github.com/Caio-Felice-Cunha/MarketBasketAnalysis): Retail with Market Basket Analysis in RStudio and MySQL. 
 
