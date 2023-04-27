@@ -22,7 +22,7 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 <img src=https://user-images.githubusercontent.com/111542025/234734544-27c05061-d60e-4f93-87a7-4e5fa1acb85c.png width="150" height="80" style="float:left"> [Predicting Bitcoin Price](https://github.com/Caio-Felice-Cunha/Predicting_Bitcoin_Price/tree/main): Predicting Cryptocurrency Quotation in Real Time with PySpark and Machine Learning
 
 ###### E-Commerce Problem Solving
-<img src=https://user-images.githubusercontent.com/111542025/233861359-986757f1-96de-49e9-9c1c-36c21ccb6533.jpg width="150" height="80" style="float:left"> [E-Commerce Problem Solving](https://github.com/Caio-Felice-Cunha/HealthAnalytics): Where should this company invest: web or app?
+<img src=https://user-images.githubusercontent.com/111542025/233861359-986757f1-96de-49e9-9c1c-36c21ccb6533.jpg width="150" height="80" style="float:left"> [E-Commerce Problem Solving](https://github.com/Caio-Felice-Cunha/E-CommerceProblemSolving): Where should this company invest: web or app?
 
 ###### Health Analytics
 <img src=https://user-images.githubusercontent.com/111542025/232332768-394a5de2-3303-4a7c-92a8-193bdf8247d6.png width="150" height="80" style="float:left"> [Health Analytics](https://github.com/Caio-Felice-Cunha/HealthAnalytics): Liver Disease Prediction with Machine Learning in Python
