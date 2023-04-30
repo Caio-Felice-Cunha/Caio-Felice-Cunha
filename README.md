@@ -15,6 +15,9 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 # :scientist: Projects:
 ## (Mostly) Python:
 
+###### Machine Learning Combo
+<img src=https://user-images.githubusercontent.com/111542025/235374516-cf95a45c-96d8-4b62-ab25-723cb61448f1.png width="150" height="80" style="float:left"> [Machine Learning Combo](https://github.com/Caio-Felice-Cunha/MachineLearning-Combo/blob/main/README.md): Machine Learning Combo: 05 mini-projects involving Machine Learning with Python and Spark
+
 ###### Data manipulation with SparkSQL, PandaSQL, SQLAlchemy, PostgreSQL and Docker
 <img src=https://user-images.githubusercontent.com/111542025/235011916-b12132af-e34f-43cb-a321-ad98bbd04661.jpg width="150" height="80" style="float:left"> [Data manipulation with SparkSQL, PandaSQL, SQLAlchemy, PostgreSQL and Docker](https://github.com/Caio-Felice-Cunha/Soccer_Analysis_with_Python_Docker/tree/main): Soccer Analysis with Python and Docker - Mini-project
 
