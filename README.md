@@ -15,6 +15,9 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 # :scientist: Projects:
 ## (Mostly) Python:
 
+###### IoT Analysis
+<img src=https://user-images.githubusercontent.com/111542025/235742547-0bb11f1a-3c05-44a9-815b-198ed556dc3d.png width="150" height="80" style="float:left"> [IoT Analysis](https://github.com/Caio-Felice-Cunha/IoT-Analysis/tree/main): Implement a complete real-time data analysis solution using Apache Spark and Apache Kafka
+
 ###### Machine Learning in Civil Engineering with Apache Spark
 <img src=https://user-images.githubusercontent.com/111542025/235374693-dece2ee5-3459-494b-97f2-764632f8e977.png width="150" height="80" style="float:left"> [Machine Learning in Civil Engineering with Apache Spark](https://github.com/Caio-Felice-Cunha/Civil-Engineering-Apache-Spark): The development of our own AutoML system, without using specific frameworks and applying Machine Learning with Spark MLlib in PySpark
 
