@@ -69,6 +69,9 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 ###### Customer Segmentation Based RFM Analysis
 <img src=https://user-images.githubusercontent.com/111542025/234999814-62da9573-f325-4a61-b80f-9bdd7996614f.png width="150" height="80" style="float:left"> [Customer Segmentation Based RFM Analysis](https://github.com/Caio-Felice-Cunha/Customer_Segmentation_Based_RFM_Analysis/tree/main): Machine Learning in R using K means for RFM Analysis. 
 
+###### Financial Market Analysis
+<img src=https://user-images.githubusercontent.com/111542025/236521677-744baf37-fdc9-4c00-8002-8794e01ae444.png width="150" height="80" style="float:left"> [Financial Market Analysis](https://github.com/Caio-Felice-Cunha/Financial-Market-Analysis/blob/main/README.md): Time Series Analysis in the Financial Market in R.
+
 ###### Market Basket Analysis
 <img src=https://user-images.githubusercontent.com/111542025/226118542-f536315b-e479-42be-a613-a846c044e1bb.jpeg width="150" height="80" style="float:left"> [MBA](https://github.com/Caio-Felice-Cunha/MarketBasketAnalysis): Retail with Market Basket Analysis in RStudio and MySQL. 
 
