@@ -66,6 +66,8 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 ## (Mostly) RStudio:
 
+###### Property Analysis
+<img src=https://user-images.githubusercontent.com/111542025/236897056-716901a1-649e-4b8e-9eb2-5cb008cf4376.jpg width="150" height="80" style="float:left"> [Property Analysis](https://github.com/Caio-Felice-Cunha/Property-Analysis/tree/main): Property Analysis with Chi-Square Test in R. 
 
 ###### Forecasting Hospital Expenses
 <img src=https://user-images.githubusercontent.com/111542025/236879619-8425351d-e67e-45ba-9700-08834c0140d3.png width="150" height="80" style="float:left"> [Forecasting Hospital Expenses](https://github.com/Caio-Felice-Cunha/Forecasting-Hospital-Expenses/tree/main): Forecasting Hospital Expenses with Machine Learning in R. 
