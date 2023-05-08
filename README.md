@@ -66,6 +66,9 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 ## (Mostly) RStudio:
 
+###### Predicting Breast Cancer
+<img src=https://user-images.githubusercontent.com/111542025/236818599-0a5a1868-7290-4854-959e-cbf662da4f01.png width="150" height="80" style="float:left"> [Predicting Breast Cancer](https://github.com/Caio-Felice-Cunha/Predicting-Breast-Cancer/tree/main): Predicting Breast Cancer Occurrence with Machine Learning in R. 
+
 ###### Customer Segmentation Based RFM Analysis
 <img src=https://user-images.githubusercontent.com/111542025/234999814-62da9573-f325-4a61-b80f-9bdd7996614f.png width="150" height="80" style="float:left"> [Customer Segmentation Based RFM Analysis](https://github.com/Caio-Felice-Cunha/Customer_Segmentation_Based_RFM_Analysis/tree/main): Machine Learning in R using K means for RFM Analysis. 
 
