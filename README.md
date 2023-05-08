@@ -66,6 +66,10 @@ I'm a tech enthusiast, constantly learning something new, and right now my focus
 
 ## (Mostly) RStudio:
 
+
+###### Forecasting Hospital Expenses
+<img src=https://user-images.githubusercontent.com/111542025/236879619-8425351d-e67e-45ba-9700-08834c0140d3.png width="150" height="80" style="float:left"> [Forecasting Hospital Expenses](https://github.com/Caio-Felice-Cunha/Forecasting-Hospital-Expenses/tree/main): Forecasting Hospital Expenses with Machine Learning in R. 
+
 ###### Predicting Breast Cancer
 <img src=https://user-images.githubusercontent.com/111542025/236818599-0a5a1868-7290-4854-959e-cbf662da4f01.png width="150" height="80" style="float:left"> [Predicting Breast Cancer](https://github.com/Caio-Felice-Cunha/Predicting-Breast-Cancer/tree/main): Predicting Breast Cancer Occurrence with Machine Learning in R. 
 
