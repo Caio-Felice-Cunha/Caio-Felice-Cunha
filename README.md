@@ -14,7 +14,7 @@ I build in public on [LinkedIn](https://www.linkedin.com/in/caio-felicio-cunha/)
 
 - **[linkedin-x-scheduler](https://github.com/Caio-Felice-Cunha/linkedin-x-scheduler)**: bulk-schedule a week of LinkedIn and X posts from your own logged-in browser. No API keys, no OAuth, no SaaS subscription. Node + Playwright over CDP, proven on a real 13-post week.
 - **[Supply-Chain-Intelligence-Hub](https://github.com/Caio-Felice-Cunha/Supply-Chain-Intelligence-Hub)**: an end-to-end supply chain analytics build: Dockerized database, Python ETL pipeline, and a data quality engine over a realistic operations dataset.
-- **[RegFlow-Django-Celery](https://github.com/Caio-Felice-Cunha/RegFlow-Django-Celery)**: a distributed processing demo with Django and Celery: queues, workers, and what happens to a workflow when pieces fail.
+- **[RegFlow-Django-Celery](https://github.com/Caio-Felice-Cunha/RegFlow-Django-Celery)**: a Django registration flow where Celery and Redis do the heavy lifting off the request path: async email invitations with embedded tokens.
 - **[Directional-Forecasting-in-Cryptocurrencies](https://github.com/Caio-Felice-Cunha/Directional-Forecasting-in-Cryptocurrencies)**: Kaggle competition entry predicting next-minute price direction of a crypto asset from historical data.
 - **[Customer_Segmentation_Based_RFM_Analysis](https://github.com/Caio-Felice-Cunha/Customer_Segmentation_Based_RFM_Analysis)**: customer segmentation with K-means and RFM analysis in R: which customers deserve the next dollar of attention.
 
