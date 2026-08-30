@@ -1,39 +1,45 @@
 # Caio Cunha
 
-**AI, in practice.**
+![Caio Cunha — applied AI with proof](assets/profile-header.svg)
 
-I help businesses and the people who build for them turn AI from an impressive demo into measurable business value. I'm honest about what it costs and where it fails to deliver.
+**I build practical AI products, browser automations, and data systems—and publish safe ways to inspect how they work.**
 
-## Now
+[Explore the portfolio](https://caio-felice-cunha.github.io/CaioFeliceCunha.github.io/) · [Try a demo](https://caio-felice-cunha.github.io/drumai-demo/) · [Connect on LinkedIn](https://www.linkedin.com/in/caio-felicio-cunha/)
 
-Data & Research Analyst at [Aterio](https://www.aterio.io) (AI startup, Vancouver): data-driven research at the intersection of AI infrastructure, energy systems, and global financial markets, including AI agents, automated workflows, and data engineering pipelines.
+## Six projects to start with
 
-I build in public on [LinkedIn](https://www.linkedin.com/in/caio-felicio-cunha/) and [X](https://x.com/Caio__Cunha): what I ship, what I learn, what breaks.
+| Project | Public state | What you can inspect |
+| --- | --- | --- |
+| **Redax Juris** | Replay demo · release gate pending | A fictional Brazilian family-law workflow with five observable processing stages. [Product site](https://redaxjuris.com) |
+| **Voxpage** | Replay demo · release gate pending | A phone-frame listening flow configured by topic, format, duration, and tone. [Product site](https://voxpage.app) |
+| **[DrumAI](https://github.com/Caio-Felice-Cunha/drumai-demo)** | [Interactive demo](https://caio-felice-cunha.github.io/drumai-demo/) | Original synthesized audio, editable notation, tempo, loop, and export controls. |
+| **[LinkedIn / X Scheduler](https://github.com/Caio-Felice-Cunha/linkedin-x-scheduler)** | [Interactive demo](https://caio-felice-cunha.github.io/linkedin-x-scheduler/) | A deterministic schedule report produced without opening Chrome or writing to a social network. |
+| **[Supply Chain Intelligence Hub](https://github.com/Caio-Felice-Cunha/Supply-Chain-Intelligence-Hub)** | [Local runnable](https://caio-felice-cunha.github.io/Supply-Chain-Intelligence-Hub/) | Dockerized MySQL, tested Python ETL, a navigable data-quality report, and Codespaces. |
+| **[MorarFora](https://github.com/Caio-Felice-Cunha/morarfora-case-study)** | [Live product](https://caio-felice-cunha.github.io/morarfora-case-study/) | Guided paths into a live CRS calculator and city-comparison tool. |
 
-## Selected work
+Redax Juris and Voxpage remain unlinked to public case repositories until their historical credential-rotation gates are complete. Their private product source is not part of this showcase.
 
-- **[linkedin-x-scheduler](https://github.com/Caio-Felice-Cunha/linkedin-x-scheduler)**: bulk-schedule a week of LinkedIn and X posts from your own logged-in browser. No API keys, no OAuth, no SaaS subscription. Node + Playwright over CDP, proven on a real 13-post week.
-- **[Supply-Chain-Intelligence-Hub](https://github.com/Caio-Felice-Cunha/Supply-Chain-Intelligence-Hub)**: an end-to-end supply chain analytics build: Dockerized database, Python ETL pipeline, and a data quality engine over a realistic operations dataset.
-- **[RegFlow-Django-Celery](https://github.com/Caio-Felice-Cunha/RegFlow-Django-Celery)**: a Django registration flow where Celery and Redis do the heavy lifting off the request path: async email invitations with embedded tokens.
-- **[Directional-Forecasting-in-Cryptocurrencies](https://github.com/Caio-Felice-Cunha/Directional-Forecasting-in-Cryptocurrencies)**: Kaggle competition entry predicting next-minute price direction of a crypto asset from historical data.
-- **[Customer_Segmentation_Based_RFM_Analysis](https://github.com/Caio-Felice-Cunha/Customer_Segmentation_Based_RFM_Analysis)**: customer segmentation with K-means and RFM analysis in R: which customers deserve the next dollar of attention.
+## More public demos
 
-The older repos are my data analysis training ground: R, SQL, and Python studies. They stay public because the foundation matters.
+- **[Scoopy](https://caio-felice-cunha.github.io/scoopy-demo/)** — synthetic discovery catalog and a no-storage “Scoop it!” path.
+- **[Instagram Reels Poster](https://caio-felice-cunha.github.io/instagram-reels-poster/)** — zero-write Reel batch replay.
+- **[YouTube Shorts Scheduler](https://caio-felice-cunha.github.io/youtube-shorts-scheduler/)** — zero-write upload and scheduling replay.
 
-## Building now (private for now)
+## What I work across
 
-- **Redax Juris**: AI document generation and jurisprudence analysis for Brazilian family-law firms. Regulation is a design constraint, not an afterthought.
-- **voxpage**: a mobile app that turns a topic into an AI-generated podcast episode and shows what each episode cost, in cents.
+- Applied AI products with explicit cost, privacy, and human-review boundaries
+- Data pipelines and evidence-oriented analytics
+- Browser automation with safe offline adapters
+- Product decisions in regulated or high-context domains
 
-## Background
+Currently a Data & Research Analyst at [Aterio](https://www.aterio.io) in Vancouver. My background spans business consulting, finance, law, data engineering, and software delivery.
 
-Both sides of applied AI for business:
+## Principles behind this showcase
 
-- MBA, FGV (Finance, Controlling, Auditing)
-- Law degree, Toledo Prudente
-- ~3.5 years of business consulting at Deloitte
-- Post-Secondary Diploma in Data Engineering & Analytics with Co-op, CCTB (in progress, 2024 to 2027)
+- Demo claims are backed by public evidence.
+- Public demos require no account, API key, payment, or browser extension.
+- Demo modes never publish or write to an external service.
+- Private product code, customer material, and personal datasets stay private.
 
-## Links
+[Portfolio](https://caio-felice-cunha.github.io/CaioFeliceCunha.github.io/) · [LinkedIn](https://www.linkedin.com/in/caio-felicio-cunha/) · [X](https://x.com/Caio__Cunha)
 
-[LinkedIn](https://www.linkedin.com/in/caio-felicio-cunha/) · [X](https://x.com/Caio__Cunha) · [Portfolio](https://caio-felice-cunha.github.io/CaioFeliceCunha.github.io/)
