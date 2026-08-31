@@ -4,26 +4,26 @@
 
 **I build practical AI products, browser automations, and data systems—and publish safe ways to inspect how they work.**
 
-[Explore the portfolio](https://caio-felice-cunha.github.io/CaioFeliceCunha.github.io/) · [Try a demo](https://caio-felice-cunha.github.io/drumai-demo/) · [Connect on LinkedIn](https://www.linkedin.com/in/caio-felicio-cunha/)
+[Explore the portfolio](https://caio-felice-cunha.github.io/CaioFeliceCunha.github.io/) · [Try DrumAI](https://caio-felice-cunha.github.io/drumai-demo/) · [Read its engineering case](https://caio-felice-cunha.github.io/drumai-demo/#case-study) · [Connect on LinkedIn](https://www.linkedin.com/in/caio-felicio-cunha/)
 
 ## Six projects to start with
 
-| Project | Public state | What you can inspect |
-| --- | --- | --- |
-| **Redax Juris** | Replay demo · release gate pending | A fictional Brazilian family-law workflow with five observable processing stages. [Product site](https://redaxjuris.com) |
-| **Voxpage** | Replay demo · release gate pending | A phone-frame listening flow configured by topic, format, duration, and tone. [Product site](https://voxpage.app) |
-| **[DrumAI](https://github.com/Caio-Felice-Cunha/drumai-demo)** | [Interactive demo](https://caio-felice-cunha.github.io/drumai-demo/) | Original synthesized audio, editable notation, tempo, loop, and export controls. |
-| **[LinkedIn / X Scheduler](https://github.com/Caio-Felice-Cunha/linkedin-x-scheduler)** | [Interactive demo](https://caio-felice-cunha.github.io/linkedin-x-scheduler/) | A deterministic schedule report produced without opening Chrome or writing to a social network. |
-| **[Supply Chain Intelligence Hub](https://github.com/Caio-Felice-Cunha/Supply-Chain-Intelligence-Hub)** | [Local runnable](https://caio-felice-cunha.github.io/Supply-Chain-Intelligence-Hub/) | Dockerized MySQL, tested Python ETL, a navigable data-quality report, and Codespaces. |
-| **[MorarFora](https://github.com/Caio-Felice-Cunha/morarfora-case-study)** | [Live product](https://caio-felice-cunha.github.io/morarfora-case-study/) | Guided paths into a live CRS calculator and city-comparison tool. |
+| Project | Public state | Try it | Inspect the engineering |
+| --- | --- | --- | --- |
+| **Redax Juris** | Replay demo · release gate pending | [Product site](https://redaxjuris.com) | Public case remains blocked by credential rotation. |
+| **Voxpage** | Replay demo · release gate pending | [Product site](https://voxpage.app) | Public case remains blocked by credential rotation. |
+| **DrumAI** | Interactive demo | [Edit and play the chart](https://caio-felice-cunha.github.io/drumai-demo/) | [Pipeline, score model, Web Audio, privacy, tests](https://caio-felice-cunha.github.io/drumai-demo/#case-study) · [Source](https://github.com/Caio-Felice-Cunha/drumai-demo) |
+| **LinkedIn / X Scheduler** | Interactive demo | [Replay a sample week](https://caio-felice-cunha.github.io/linkedin-x-scheduler/) | [Manifest, adapters, state, verification, safety](https://caio-felice-cunha.github.io/linkedin-x-scheduler/#architecture) · [Source](https://github.com/Caio-Felice-Cunha/linkedin-x-scheduler) |
+| **Supply Chain Intelligence Hub** | Local runnable | [Filter the 101,786-row dashboard](https://caio-felice-cunha.github.io/Supply-Chain-Intelligence-Hub/) | [Pipeline, KPIs, lineage, quality, SQL](https://caio-felice-cunha.github.io/Supply-Chain-Intelligence-Hub/#engineering) · [Source](https://github.com/Caio-Felice-Cunha/Supply-Chain-Intelligence-Hub) |
+| **MorarFora** | Live product | [Test the two guided flows](https://caio-felice-cunha.github.io/morarfora-case-study/) | [Astro, versioned data, UX, updates, tests](https://caio-felice-cunha.github.io/morarfora-case-study/#case) · [Source](https://github.com/Caio-Felice-Cunha/morarfora-case-study) |
 
 Redax Juris and Voxpage remain unlinked to public case repositories until their historical credential-rotation gates are complete. Their private product source is not part of this showcase.
 
 ## More public demos
 
-- **[Scoopy](https://caio-felice-cunha.github.io/scoopy-demo/)** — synthetic discovery catalog and a no-storage “Scoop it!” path.
-- **[Instagram Reels Poster](https://caio-felice-cunha.github.io/instagram-reels-poster/)** — zero-write Reel batch replay.
-- **[YouTube Shorts Scheduler](https://caio-felice-cunha.github.io/youtube-shorts-scheduler/)** — zero-write upload and scheduling replay.
+- **Scoopy:** [try the complete website](https://caio-felice-cunha.github.io/scoopy-demo/) · [inspect the 3D narrative and deterministic catalog](https://caio-felice-cunha.github.io/scoopy-demo/case-study/) · [source](https://github.com/Caio-Felice-Cunha/scoopy-demo)
+- **Instagram Reels Poster:** [replay the zero-write batch](https://caio-felice-cunha.github.io/instagram-reels-poster/) · [inspect caption verification, pacing, and resume](https://caio-felice-cunha.github.io/instagram-reels-poster/#architecture) · [source](https://github.com/Caio-Felice-Cunha/instagram-reels-poster)
+- **YouTube Shorts Scheduler:** [replay upload and scheduling](https://caio-felice-cunha.github.io/youtube-shorts-scheduler/) · [inspect audience, visibility, readback, and wrong-time prevention](https://caio-felice-cunha.github.io/youtube-shorts-scheduler/#architecture) · [source](https://github.com/Caio-Felice-Cunha/youtube-shorts-scheduler)
 
 ## What I work across
 

@@ -1,0 +1,28 @@
+schema: 1
+story: '1.2'
+gate: PASS
+status_reason: >-
+  The profile exposes truthful demo and engineering paths for the seven released projects,
+  keeps credential-gated cases unlinked, and passes local and GitHub Actions structure,
+  route, excluded-content, and URL checks backed by the central live-page browser suite.
+reviewer: 'Quinn'
+reviewed_revision: 'commit:adf0cf37389959b3b8c273345ee2c8128514a99e'
+updated: '2026-08-30T18:50:00-07:00'
+top_issues: []
+waiver:
+  active: false
+evidence:
+  tests:
+    profile: passed
+    central_live_routes: '24 passed across desktop and mobile'
+  quality:
+    public_routes_present: '7 of 7'
+    engineering_routes_present: '7 of 7'
+    blocked_case_links: none
+  security:
+    secret_patterns: none
+    pii_patterns: none
+    excluded_content: none
+  review_note: >-
+    CodeRabbit CLI authentication was unavailable; manual evidence-based review found
+    no release-blocking issue.
